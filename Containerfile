@@ -1,4 +1,4 @@
-FROM quay.io/fedora/fedora-bootc-minimal
+# FROM quay.io/fedora/fedora-bootc-minimal:latest # repo is empty 12.11.24
 
 #FROM quay.io/fedora/fedora-bootc
 
